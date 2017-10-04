@@ -1,18 +1,7 @@
-# first project
+Detta program tar hela förnamnet och hela efternamnet så tillexempel Jennifer.Svensson och
 
+om någon har ett likadant namn så får varsin person ett unikt nummer.
 
-## fork
+Om personen slutar jobba/studera så kommer de tas bort från jobbet/skolans användare.
 
-ni ska forka det här projektet
-
-
-## clone
-
-öppna det sedan i pycharm
-
-## push
-
-skapa er egen version av nick generator och pusha upp dennna
-
-
-
+Adelsnamn kommer inte att tas med
